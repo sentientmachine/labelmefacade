@@ -31,7 +31,12 @@ The dataset under images/ contains 100 images for training and 845 images for te
 
 # Explanation
 
-This is the LabelMeFacade Image Dataset, which we created from LabelMe images for semantic segmentation research. Since this is a subset of LabelMe images, the images were originally collected by the authors of http://publications.csail.mit.edu/tmp/MIT-CSAIL-TR-2005-056.pdf . All images should only be used for non-commercial and research experiments. Please check with the authors of the LabelMe dataset, in case you are unsure about the respective copyrights and how they apply.
+This is the LabelMeFacade Image Dataset, which we created from LabelMe images for semantic segmentation research. Since this is a subset of LabelMe images, the images were originally collected by the authors of
+
+LabelMe: A Database and Web-based Tool for Image Annotation Bryan C. Russell, Antonio Torralba, Kevin P. Murphy,William T. Freeman:
+http://publications.csail.mit.edu/tmp/MIT-CSAIL-TR-2005-056.pdf . 
+
+All images should only be used for non-commercial and research experiments. Please check with the authors of the LabelMe dataset, in case you are unsure about the respective copyrights and how they apply.
 
 
 ## Citation
