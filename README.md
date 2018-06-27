@@ -4,9 +4,12 @@ Data created September/3/2010
 
 Authors: Bjoern Froehlich and Erik Rodner
 
-It's a set of natural unconstrained photographs of city scenes like this:
+## What is this?
+
+A GUI program to help users quickly label unconstrained photographs of city scenes, like this:
 
 ![Alt text](./images/05june05_static_street_boston__p1010736.jpg?raw=true "Raw unconstrained photograph")
+
 
 
 Labelled by human hands using the LabelMe tool thustly:
