@@ -12,7 +12,7 @@ A GUI program to help users quickly label unconstrained photographs of city scen
 
 
 
-Labelled by human hands using the LabelMe tool thustly:
+Using the mouse to quickly label the image using the LabelMe tool, Result this this image plus target data row serializing this to target supervisory signal:
 
 ![Alt text](./labels/05june05_static_street_boston__p1010736.png?raw=true "label for previous image")
 
